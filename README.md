@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimple </h1>
 <h3 align="center">A passionate frontend developer with strong passion of coding from India.</h3>
 
-<p align="left" <img src="https://dribbble.com/shots/3863114-The-girl-and-her-laptop" alt="Dimple"/></p>
+<img align="center" width="200" src="https://media.tenor.com/QVC1Nmb9TwUAAAAi/coding.gif" alt="Coding"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dimple-01&label=Profile%20views&color=0e75b6&style=flat" alt="dimple-01" /> </p>
 
