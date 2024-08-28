@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on **DSA concepts**
 
-- 👨‍💻 All of my projects are available at [https://dimplekumari.netlify.app/](https://dimplekumari.netlify.app/)
-
-- 📫 How to reach me **dimplekumari0127@gmail.com**
+- 📫 How to reach me **dimplekumari0127@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
