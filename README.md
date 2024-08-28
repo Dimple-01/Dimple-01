@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **DSA concepts**
 
-- 📫 How to reach me **dimplekumari0127@gmail.com
+- 📫 How to reach me **dimplekumari0127@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
